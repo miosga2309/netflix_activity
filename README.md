@@ -1,2 +1,2 @@
-# netflix_activity
-Simple visualisation of my Netflix viewing activity
+# Netflix Activity
+Simple visualisation of my Netflix viewing activity with R.
